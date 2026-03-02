@@ -43,4 +43,4 @@ if st.button("実行"):
                 st.error("身長と体重は数値で入力してください。")
 
         else:
-            st.error("身長と体重をどちらも入力してください。")git --version
+            st.error("身長と体重をどちらも入力してください。")
